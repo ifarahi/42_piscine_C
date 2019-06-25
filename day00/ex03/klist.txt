@@ -1,0 +1,7 @@
+Credentials cache: API:1132
+        Principal: ifarahi@1337.MA
+
+  Issued                Expires               Principal
+Jul 19 14:32:52 2018  Jul 20 00:32:52 2018  krbtgt/1337.MA@1337.MA
+Jul 19 14:32:53 2018  Jul 20 00:32:52 2018  ldap/ldap-master.1337.ma@1337.MA
+Jul 19 14:32:54 2018  Jul 20 00:32:52 2018  HTTP/iscsi.1337.ma@1337.MA
